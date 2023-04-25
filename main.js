@@ -7,7 +7,7 @@ const author = document.getElementById('author');
 
 // add the book to the view page
 const addBook = (book) => {
-  const bookItem = document.createElement('li');
+  const bookItem = document.createElement('ul');
   bookItem.setAttribute('id', book.id);
 
   const titlePara = document.createElement('p');
