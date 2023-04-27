@@ -26,12 +26,13 @@
 
 # 📖 [Awsome-book] <a name="about-project"></a>
 
-Awesome Books, In this project, we made a basic website that allows users to add/remove books from a list. we achieved that by using JavaScript objects and arrays, we created and accessed properties and methods of JavaScript objects.
+Awesome Books, In this project, we made a basic website that allows users to add/remove books from a list using JavaScript DOM and events and classes.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 - HTML
   -JavaScript
+  -CSS
 
 <!-- Features -->
 
@@ -88,14 +89,6 @@ Example command:
 - GitHub: [@abdelazizsoliman](https://github.com/abdelazizsoliman)
 - Twitter: [@Abdelaz21958317](https://twitter.com/Abdelaz21958317)
 - LinkedIn: [Abdelaziz Soliman](https://www.linkedin.com/in/abdelaziz-soliman-16989b89/)
-
-## 👥 Author 2 <a name="author 2"></a>
-
-👤 **Biftu Girma**
-
-- GitHub: [@Bifabig](https://github.com/Bifabig)
-- Twitter: [@biftu94](https://twitter.com/biftu94)
-- LinkedIn: [Biftu Girma](https://www.linkedin.com/in/biftu-girma-3598a8126/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
